@@ -4,9 +4,7 @@ Kaggle: https://www.kaggle.com/competitions/computer-vision-hw4-2023/overview
 
 Homework Description:
 
-
 1.Coding:
-
 
 Please finish "TODO" part in provided reference code.
 
