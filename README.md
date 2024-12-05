@@ -2,9 +2,6 @@
 # CV HW4: License Plate Localization
 Kaggle: https://www.kaggle.com/competitions/computer-vision-hw4-2023/overview
 
-Reference Code: https://colab.research.google.com/drive/1orILj8ZVtpuy-2DN2qu4H5VCmHBLS2Rz?usp=sharing
-
-
 Homework Description:
 
 
